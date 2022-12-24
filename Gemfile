@@ -9,6 +9,8 @@ gem "rails", "~> 7.0.4"
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
+gem 'dotenv-rails'
+
 # Access-Control-Allow-Origin CORS errors
 gem 'rack-cors'
 
