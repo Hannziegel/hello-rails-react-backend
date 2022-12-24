@@ -45,6 +45,6 @@ class GreetingsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def greeting_params
-      params.require(:greeting).permit(:description, :message)
+      params.require(:greeting).permit(:message)
     end
 end
