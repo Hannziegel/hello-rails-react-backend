@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Rails React] <a name="about-project"></a>
 
-> [Front-end-Link](https://github.com/hannziegel/hello-rails-backend)
+> [Front-end-Link](https://github.com/Hannziegel/hello-rails-react-frontend)
 
 > Hello Rails React is a simple web app that combines functionalities of Ruby on Rails and React. It allows users to get a random greeting from the backend API.
 
